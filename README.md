@@ -12,11 +12,12 @@ The project applies conditional normalizing flows to model the distribution of i
 
 ```
 ├── mock_data/                    # Some mock data to train the model and try the sampling (extracted bubbles from pyC2Ray)
-├── CosmoGLOW_sampling.ipynb      # Training script (feel free to adjust hyperparameters)
+├── CosmoGLOW_sampling.ipynb      # Training script
 ├── CosmoGLOW_training.ipynb      # Sampling from the trained model
-├── CosmoGLOW_massinference.ipynb # Sampling n Masses, obtaining maximum log-likelihood -> Mass-Inference
+├── CosmoGLOW_massinference.ipynb # Sampling n masses for same bubble, obtain maximum log-likelihood and get the modeled mass for bubble
 ├── README.md                     # Project description
 ├── 24022025.pth                  # Model checkpoint at epoch~3000
+├── bubble_extraction.ipynb       # Extract bubble patches from xfrac and halo catalogue
 ```
 
 ## Key Features
