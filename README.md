@@ -30,7 +30,7 @@ The project applies conditional normalizing flows to model the distribution of i
 - Matplotlib 3.9.2
 - SciPy 1.12.0
 
-These versions have been tested and confirmed to work. Newer versions may also be compatible.
+These versions have been tested and confirmed to work. Newer (and older) versions may also be compatible.
 
 ## Acknowledgments
 
