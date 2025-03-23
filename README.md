@@ -1,10 +1,10 @@
 # Normalizing Flow-Based Modeling for Detecting Ionizing Sources within H II Regions
 
-This repository contains the implementation of the master's thesis project by Hrvoje Križić at ETH Zürich:
+This repository contains the CosmoGLOW-code, written for my master's thesis project at ETH Zürich:
 
 **Normalizing Flow-Based Modeling for Detecting Ionizing Sources within H II Regions**
 
-The project applies conditional normalizing flows to model the distribution of ionizing sources (halos) within ionized regions (H II bubbles) in the early universe. The approach utilizes the GLOW architecture and demonstrates improvements over standard Gaussian assumptions by incorporating spatial bubble geometry.
+The project applies conditional normalizing flows to model the distribution of ionizing sources (halos) within ionized regions (H II bubbles) in the early universe. The approach utilizes the GLOW architecture and demonstrates improvements over standard Gaussian assumptions.
 
 ## Repository Structure
 
