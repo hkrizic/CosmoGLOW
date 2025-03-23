@@ -4,6 +4,8 @@ This repository contains the CosmoGLOW-code, written for my master's thesis proj
 
 **Normalizing Flow-Based Modeling for Detecting Ionizing Sources within H II Regions**
 
+![Screenshot 2025-03-23 at 19 10 56](https://github.com/user-attachments/assets/1d3df5f9-0e1d-4e50-850f-176f80b3d7e4)
+
 The project applies conditional normalizing flows to model the distribution of ionizing sources (halos) within ionized regions (H II bubbles) in the early universe. The approach utilizes the GLOW architecture and demonstrates improvements over standard Gaussian assumptions.
 
 ## Repository Structure
