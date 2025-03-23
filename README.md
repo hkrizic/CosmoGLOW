@@ -1,4 +1,4 @@
-# Normalizing Flow-Based Modeling for Detecting Ionizing Sources within H II Regions
+# CosmoGLOW: Normalizing Flow-Based Modeling for Detecting Ionizing Sources within H II Regions
 
 This repository contains the CosmoGLOW-code, written for my master's thesis project at ETH Zürich:
 
